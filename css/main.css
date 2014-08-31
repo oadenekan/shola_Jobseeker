@@ -104,16 +104,27 @@ table {
 #post {
 	background: #9c9ab3;
 	color: #ffffff;
-	margin: 9px 0 0 94px;
+	margin: 9px 260px 30px 94px;
 	border: none;
 	padding: 6px;
+
+
 }
 
 /*FIRST DIV*/
-#first {
-	background-image: url("img/pics.png");
+#man {
+	margin: 36px 18px 0 98px;
+	position: absolute;
+	top: 110px;
+	right: 480px;
 }
 
+/*IMAGE DIV*/
+/*#img_div {
+	position: absolute;
+	top: 0px;
+	vertical-align: middle;
+}*/
 
 /*SECOND DIV*/
 #how {
