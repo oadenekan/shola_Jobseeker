@@ -109,6 +109,11 @@ table {
 	padding: 6px;
 }
 
+/*FIRST DIV*/
+#first {
+	background-image: url("img/pics.png");
+}
+
 
 /*SECOND DIV*/
 #how {
