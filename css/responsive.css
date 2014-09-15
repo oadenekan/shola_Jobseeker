@@ -118,7 +118,7 @@ nav {
 }
 
 #description {
-	font-size: 1em;
+	font-size: 1rem;
 	font-weight: 300px;
 	letter-spacing: 0.15em;
 	display: block;
@@ -156,4 +156,15 @@ nav {
 	padding-top: 0;
 	font-size: 0.75em;
 }
+}
+
+@media screen and (max-width: 768px) {
+
+	/**********************************
+     HEADER
+    **********************************/
+.arrow {
+	position: relative;
+	left: 100px;
+	display: none !important;
 }
